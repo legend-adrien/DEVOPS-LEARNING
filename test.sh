@@ -9,3 +9,6 @@ lost=789
 minachoka=tech
 
 njokusema=?????
+
+
+natakakula ugali
