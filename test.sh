@@ -6,7 +6,6 @@ added2=256
 
 lost=789
 
-minachoka=tech
+minachoka="tech"
 
-njokusema=?????
->>>>>>> abc3a51 (nachoka maisha miye)
+njokusema="????"
